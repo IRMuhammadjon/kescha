@@ -1,0 +1,15 @@
+C:\Users\iskan\Mohirdev\Kescha\bin\Debug\net6.0\Kescha.exe
+C:\Users\iskan\Mohirdev\Kescha\bin\Debug\net6.0\Kescha.deps.json
+C:\Users\iskan\Mohirdev\Kescha\bin\Debug\net6.0\Kescha.runtimeconfig.json
+C:\Users\iskan\Mohirdev\Kescha\bin\Debug\net6.0\Kescha.dll
+C:\Users\iskan\Mohirdev\Kescha\bin\Debug\net6.0\Kescha.pdb
+C:\Users\iskan\Mohirdev\Kescha\obj\Debug\net6.0\Kescha.csproj.AssemblyReference.cache
+C:\Users\iskan\Mohirdev\Kescha\obj\Debug\net6.0\Kescha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iskan\Mohirdev\Kescha\obj\Debug\net6.0\Kescha.AssemblyInfoInputs.cache
+C:\Users\iskan\Mohirdev\Kescha\obj\Debug\net6.0\Kescha.AssemblyInfo.cs
+C:\Users\iskan\Mohirdev\Kescha\obj\Debug\net6.0\Kescha.csproj.CoreCompileInputs.cache
+C:\Users\iskan\Mohirdev\Kescha\obj\Debug\net6.0\Kescha.dll
+C:\Users\iskan\Mohirdev\Kescha\obj\Debug\net6.0\refint\Kescha.dll
+C:\Users\iskan\Mohirdev\Kescha\obj\Debug\net6.0\Kescha.pdb
+C:\Users\iskan\Mohirdev\Kescha\obj\Debug\net6.0\Kescha.genruntimeconfig.cache
+C:\Users\iskan\Mohirdev\Kescha\obj\Debug\net6.0\ref\Kescha.dll
